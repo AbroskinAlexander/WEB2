@@ -8,8 +8,8 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.beans.Transient;
 import java.io.IOException;
-import java.io.Writer;
 import java.util.HashMap;
 
 public class RegistrationServlet extends HttpServlet {
@@ -27,16 +27,6 @@ public class RegistrationServlet extends HttpServlet {
         String email = request.getParameter("email");
         String password = request.getParameter("password");
         User newUser = new User(email, password);
-        Writer writer = response.getWriter();
-        response.setContentType("text/html,charset=utf-8");
-        if (userService.isExistsThisUser(newUser)) {
-            writer.write("Error user exist");
-            response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
-        } else {
-            userService.addUser(newUser);
-            writer.write("New user add");
-            response.setStatus(HttpServletResponse.SC_OK);
-        }
-        writer.close();
+        userService.addUser(newUser);
     }
 }

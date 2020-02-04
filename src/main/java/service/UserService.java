@@ -35,10 +35,8 @@ public class UserService {
     }
 
     public boolean addUser(User user) {
-        for (User p : dataBase.values()) {
-            if (p.getEmail().equals(user.getEmail())) {
-                return false;
-            }
+        if (isExistsThisUser(user)) {
+            return false;
         }
         user.setId(maxId.get());
         dataBase.put(user.getId(), user);
