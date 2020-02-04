@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83a47135-4eb2-4bb3-91e9-1b823e8742d9" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnmG45zPP0T5rFeRhvOYZswrha" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="C:/android-sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WebTestMachine/WebTestMachine.jar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="lessc" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Святослав\Documents\codeWork\webTasks\web2\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Святослав\Documents\codeWork\webTasks\web2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="webTasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../../WebTestMachine/WebTestMachine.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\TEST\Downloads\web2\web2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="authPage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web2/webTasks/templates/authPage.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="JavaScript Debug.authPage.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JavaScript Debug.authPage.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a47135-4eb2-4bb3-91e9-1b823e8742d9" name="Default" comment="" />
+      <created>1561540643083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561540643083</updated>
+      <workItem from="1561540647218" duration="10000" />
+      <workItem from="1561540706774" duration="2625000" />
+      <workItem from="1561627612901" duration="18488000" />
+      <workItem from="1563295896430" duration="49000" />
+      <workItem from="1563361269897" duration="24000" />
+      <workItem from="1579793635541" duration="6370000" />
+      <workItem from="1579865270571" duration="48822000" />
+      <workItem from="1580573872729" duration="2915000" />
+      <workItem from="1580673833668" duration="1530000" />
+      <workItem from="1580758632182" duration="217000" />
+      <workItem from="1580816425399" duration="4977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="367" key="#Project_Structure" timestamp="1580140119782">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="872" y="367" key="#Project_Structure/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580140119782" />
+    <state x="734" y="363" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579793708289">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="734" y="363" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1579793708289" />
+    <state x="1035" y="414" key="#xdebugger.evaluate" timestamp="1579984173074">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1035" y="414" key="#xdebugger.evaluate/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1579984173074" />
+    <state x="1060" y="463" key="FileChooserDialogImpl" timestamp="1579793706258">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1060" y="463" key="FileChooserDialogImpl/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1579793706258" />
+    <state width="2516" height="393" key="GridCell.Tab.0.bottom" timestamp="1580834552407">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2516" height="393" key="GridCell.Tab.0.bottom/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580834552407" />
+    <state width="2516" height="393" key="GridCell.Tab.0.center" timestamp="1580834552407">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2516" height="393" key="GridCell.Tab.0.center/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580834552407" />
+    <state width="2516" height="393" key="GridCell.Tab.0.left" timestamp="1580834552407">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2516" height="393" key="GridCell.Tab.0.left/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580834552407" />
+    <state width="2516" height="393" key="GridCell.Tab.0.right" timestamp="1580834552407">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2516" height="393" key="GridCell.Tab.0.right/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580834552407" />
+    <state width="2517" height="486" key="GridCell.Tab.1.bottom" timestamp="1580545969236">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.bottom/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580545969236" />
+    <state width="2517" height="486" key="GridCell.Tab.1.center" timestamp="1580545969236">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.center/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580545969236" />
+    <state width="2517" height="486" key="GridCell.Tab.1.left" timestamp="1580545969236">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.left/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580545969236" />
+    <state width="2517" height="486" key="GridCell.Tab.1.right" timestamp="1580545969236">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.right/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580545969236" />
+    <state x="810" y="363" key="Maven.ArtifactSearchDialog" timestamp="1579793914270">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="810" y="363" key="Maven.ArtifactSearchDialog/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1579793914270" />
+    <state x="760" y="283" key="SettingsEditor" timestamp="1580139779218">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="760" y="283" key="SettingsEditor/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580139779218" />
+    <state x="1001" y="446" width="555" height="524" key="StructurePopup" timestamp="1580040321597">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1001" y="446" width="555" height="524" key="StructurePopup/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580040321597" />
+    <state x="844" y="444" width="871" height="524" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579984050663">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="844" y="444" width="871" height="524" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1579984050663" />
+    <state x="1266" y="0" width="1294" height="1410" key="new project wizard" timestamp="1580062826437">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1266" y="0" width="1294" height="1410" key="new project wizard/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580062826437" />
+    <state x="936" y="333" width="672" height="677" key="run.anything.popup" timestamp="1580141657938">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="936" y="333" width="672" height="677" key="run.anything.popup/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580141657938" />
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1580040446226">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/2560.232.1920.1170@0.0.2560.1410" timestamp="1580040446226" />
+  </component>
+</project>
