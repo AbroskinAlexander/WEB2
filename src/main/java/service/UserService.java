@@ -45,7 +45,7 @@ public class UserService {
     }
 
     public void deleteAllUser() {
-        dataBase = Collections.synchronizedMap(new HashMap<>());
+        dataBase.clear();
     }
 
     public boolean isExistsThisUser(User user) {
